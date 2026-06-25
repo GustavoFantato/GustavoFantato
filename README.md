@@ -40,12 +40,6 @@ I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) wi
 **Concepts & Methodologies:**
 `OOP` | `Data Structures` | `Algorithms (Big O)` | `Scrum` | `Kanban` | `XP` | `Software Engineering`
 
-### 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavofantato&show_icons=true&theme=radium&locale=en" alt="Gustavo's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofantato&layout=compact&theme=radium" alt="Top Languages" height="150"/>
-</p>
 
 ### 📫 Let's connect!
 
@@ -95,13 +89,6 @@ Sou estudante de **Sistemas de Informação no ICMC/USP** (São Carlos, SP) com 
 
 **Conceitos e Metodologias:**
 `POO` | `Estruturas de Dados` | `Algoritmos (Big O)` | `Scrum` | `Kanban` | `XP` | `Engenharia de Software`
-
-### 📊 Minhas Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavofantato&show_icons=true&theme=radium&locale=pt-br" alt="Estatísticas do Gustavo" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofantato&layout=compact&theme=radium" alt="Linguagens mais usadas" height="150"/>
-</p>
 
 ### 📫 Vamos nos conectar!
 
