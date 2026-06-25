@@ -4,7 +4,9 @@
 
 I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) with a strong interest in technology, particularly in **Back-end** development. I am a fast learner, value teamwork and good communication, and I am always seeking new challenges to foster my professional growth.
 
-### 🚀 Experiences and Featured Projects
+[![CV](https://img.shields.io/badge/Currículo-Baixar_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_EN_Gustavo_Fantato.pdf)
+
+### Experiences and Featured Projects
 
 *   💼 **Technology Associate Analyst (Intern) | Monks Brasil** *(Dec 2025 - Mar 2026)*
     *   Worked with data automation for the *Feed Monks* product.
@@ -21,7 +23,7 @@ I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) wi
     *   **FREP:** Taught programming logic to public school teachers across Brazil.
     *   **LAB ICC I:** Assisted ICMC/USP students with programming logic, algorithm resolution, and practical laboratory exercises in **C**.
 
-### 💻 Technologies and Tools
+### Technologies and Tools
 
 **Programming Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -52,9 +54,11 @@ I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) wi
 
 # Olá! Eu sou o Gustavo Fantato Fernandes 👋
 
+[![Currículo](https://img.shields.io/badge/Currículo-Baixar_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_PTBR_Gustavo_Fantato.pdf)
+
 Sou estudante de **Sistemas de Informação no ICMC/USP** (São Carlos, SP) com forte interesse na área de tecnologia, especialmente em desenvolvimento **Back-end**. Aprendo novas tecnologias rapidamente, valorizo o trabalho em equipe e a boa comunicação, e estou sempre em busca de novos desafios para o meu crescimento profissional.
 
-### 🚀 Experiências e Projetos em Destaque
+### Experiências e Projetos em Destaque
 
 *   💼 **Technology Associate Analyst (Estágio) | Monks Brasil** *(Dez/2025 - Mar/2026)*
     *   Atuação na automação de dados no produto *Feed Monks*.
@@ -71,7 +75,7 @@ Sou estudante de **Sistemas de Informação no ICMC/USP** (São Carlos, SP) com 
     *   **FREP:** Ensino de lógica de programação para docentes de escolas públicas do Brasil.
     *   **LAB ICC I:** Auxílio aos alunos do ICMC/USP na resolução de algoritmos e exercícios práticos em **C**.
 
-### 💻 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Linguagens de Programação:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
