@@ -4,7 +4,7 @@
 
 I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) with a strong interest in technology, particularly in **Back-end** development. I am a fast learner, value teamwork and good communication, and I am always seeking new challenges to foster my professional growth.
 
-[![CV](https://img.shields.io/badge/CV-Download_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_EN_Gustavo_Fantato.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_EN_Gustavo_Fantato.pdf)
 
 ### Experiences and Featured Projects
 
