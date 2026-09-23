@@ -4,7 +4,7 @@
 
 I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) with a strong interest in technology, particularly in **Back-end** development. I am a fast learner, value teamwork and good communication, and I am always seeking new challenges to foster my professional growth.
 
-[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_EN_Gustavo_Fantato.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME_EN_Gustavo_Fantato.pdf)
 
 ### Experiences and Featured Projects
 
@@ -54,7 +54,7 @@ I am an **Information Systems student at ICMC/USP** (São Carlos, SP, Brazil) wi
 
 # Olá! Eu sou o Gustavo Fantato Fernandes 👋
 
-[![Currículo](https://img.shields.io/badge/Currículo-Baixar_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_PTBR_Gustavo_Fantato.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-Baixar-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_PTBR_Gustavo_Fantato.pdf)
 
 Sou estudante de **Sistemas de Informação no ICMC/USP** (São Carlos, SP) com forte interesse na área de tecnologia, especialmente em desenvolvimento **Back-end**. Aprendo novas tecnologias rapidamente, valorizo o trabalho em equipe e a boa comunicação, e estou sempre em busca de novos desafios para o meu crescimento profissional.
 
